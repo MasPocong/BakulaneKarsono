@@ -59,21 +59,5 @@
         }
       }
     ]
-  },
-  "footer": {
-    "type": "box",
-    "layout": "horizontal",
-    "spacing": "sm",
-    "contents": [
-      {
-        "type": "button",
-        "style": "primary",
-        "action": {
-          "type": "message",
-          "label": "LIHAT DAFTAR BUAH",
-          "text": "belanjabuahyuk"
-        }
-      }
-    ]
   }
 }
