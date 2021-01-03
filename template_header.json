@@ -1,0 +1,63 @@
+{
+  "type": "bubble",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "PECEL LELE CAK MAN",
+        "weight": "bold"
+      }
+    ]
+  },
+  "hero": {
+    "type": "image",
+    "url": "https://drive.google.com/uc?export=view&id=1t4lukKKU47gsOucTmWHiWo-yM9-tc_hJ",
+    "size": "full",
+    "aspectRatio": "4:3",
+    "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Cek Kalori Makanan",
+        "size": "sm",
+        "color": "#c9302c",
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "text": "oleh: Pecel Lele Cak Man",
+        "size": "sm",
+        "color": "#c9302c"
+      },
+      {
+        "type": "text",
+        "text": "Untuk Cek Kalori Tekan Tombol dibawah ini",
+        "size": "sm",
+        "wrap": true,
+        "margin": "lg"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "horizontal",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "action": {
+          "type": "message",
+          "label": "Cek Kalori",
+          "text": "/cekkalori"
+        }
+      }
+    ]
+  }
+}
