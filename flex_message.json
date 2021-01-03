@@ -87,7 +87,7 @@
       "size": "micro",
       "hero": {
         "type": "image",
-        "url": "https://drive.google.com/uc?export=view&id=1H1Z8iCdecSgC7Ochbec_R32VumoIGEKC",
+        "url": "https://i.ibb.co/FXygnnD/002.jpg",
         "size": "full",
         "aspectMode": "cover",
         "aspectRatio": "320:213"
@@ -98,7 +98,7 @@
         "contents": [
           {
             "type": "text",
-            "text": "Kalori Ayam Penyet",
+            "text": "Tomat Merah Merona",
             "weight": "bold",
             "size": "sm",
             "wrap": true
@@ -134,7 +134,7 @@
               },
               {
                 "type": "text",
-                "text": "199 Kal",
+                "text": "341 terjual",
                 "size": "sm",
                 "color": "#8c8c8c",
                 "margin": "md",
@@ -153,7 +153,7 @@
                 "contents": [
                   {
                     "type": "text",
-                    "text": "100gr Ayam Penyet mengandung 199 Kalori",
+                    "text": "Tomat memiliki vitamin dan mineral yang baik untuk tubuh. Di antaranya vitamin C, K1, K, B9 (folat), B, dan kalium.",
                     "wrap": true,
                     "color": "#8c8c8c",
                     "size": "xs",
@@ -173,7 +173,7 @@
       "size": "micro",
       "hero": {
         "type": "image",
-        "url": "https://drive.google.com/uc?export=view&id=10l73MfXkAPCS5KPFEmDbBUs5afpydoMf",
+        "url": "https://i.ibb.co/zSSw7vW/003.jpg",
         "size": "full",
         "aspectMode": "cover",
         "aspectRatio": "320:213"
@@ -184,7 +184,7 @@
         "contents": [
           {
             "type": "text",
-            "text": "Kalori Tempe Penyet",
+            "text": "Ketimun",
             "weight": "bold",
             "size": "sm"
           },
@@ -219,7 +219,7 @@
               },
               {
                 "type": "text",
-                "text": "595 Kal",
+                "text": "45 terjual",
                 "size": "sm",
                 "color": "#8c8c8c",
                 "margin": "md",
@@ -238,7 +238,7 @@
                 "contents": [
                   {
                     "type": "text",
-                    "text": "1 Porsi Tempe Penyet mengandung 595 Kalori",
+                    "text": "Mentimun mengandung 0,65% protein, 0.1% lemak dan karbohidrat sebanyak 2,2%. Juga mengandung kalsium, zat besi, magnesium, fosforus, vitamin A, vitamin B1, vitamin B2 dan vitamin C.",
                     "wrap": true,
                     "color": "#8c8c8c",
                     "size": "xs",
