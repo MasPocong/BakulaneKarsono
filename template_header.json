@@ -71,7 +71,7 @@
         "action": {
           "type": "message",
           "label": "LIHAT DAFTAR BUAH",
-          "text": "belanjayuk"
+          "text": "belanjabuahyuk"
         }
       }
     ]
