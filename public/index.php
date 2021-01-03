@@ -126,7 +126,7 @@ $app->post('/webhook', function (Request $request, Response $response) use ($cha
                             ]);
                         } else {
                             // send same message as reply to user
-                            $result = $bot->replyText($event['replyToken'], 'Yah.. passwornya salah Bun. passwordnya :: toko dan belanjayuk, Cobain deh Bun');
+                            $result = $bot->replyText($event['replyToken'], 'Yah.. passwornya salah Bun. passwordnya ==> "toko" dan "belanjayuk", Cobain deh Bun!');
                         }
 
                         $response->getBody()->write($result->getJSONDecodedBody());
