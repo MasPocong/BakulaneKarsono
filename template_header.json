@@ -6,14 +6,14 @@
     "contents": [
       {
         "type": "text",
-        "text": "PECEL LELE CAK MAN",
+        "text": "Toko MBAH KARSONO",
         "weight": "bold"
       }
     ]
   },
   "hero": {
     "type": "image",
-    "url": "https://drive.google.com/uc?export=view&id=1t4lukKKU47gsOucTmWHiWo-yM9-tc_hJ",
+    "url": "https://i.ibb.co/xSNCBkv/banner.jpg",
     "size": "full",
     "aspectRatio": "4:3",
     "aspectMode": "cover"
@@ -24,20 +24,20 @@
     "contents": [
       {
         "type": "text",
-        "text": "Cek Kalori Makanan",
+        "text": "Tempat Beli Sayur dan Buah! Dijamin Murah dan Berkualitas! ",
         "size": "sm",
-        "color": "#c9302c",
+        "color": "#ffffff",
         "weight": "bold"
       },
       {
         "type": "text",
-        "text": "oleh: Pecel Lele Cak Man",
+        "text": "Pemilik: Mbah Karsono",
         "size": "sm",
-        "color": "#c9302c"
+        "color": "#ffffff"
       },
       {
         "type": "text",
-        "text": "Untuk Cek Kalori Tekan Tombol dibawah ini",
+        "text": "Lihat Barang Apa Saja yang dijual Disini! Tekan Tombol dibawah Bun!",
         "size": "sm",
         "wrap": true,
         "margin": "lg"
@@ -54,8 +54,8 @@
         "style": "primary",
         "action": {
           "type": "message",
-          "label": "Cek Kalori",
-          "text": "/cekkalori"
+          "label": "LIHAT BUAH DAN SAYUR",
+          "text": "belanjayuk"
         }
       }
     ]
