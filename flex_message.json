@@ -48,7 +48,7 @@
               },
               {
                 "type": "text",
-                "text": "115 terjual",
+                "text": "115 ulasan",
                 "size": "xs",
                 "color": "#8c8c8c",
                 "margin": "md",
@@ -134,7 +134,7 @@
               },
               {
                 "type": "text",
-                "text": "341 terjual",
+                "text": "341 ulasan",
                 "size": "sm",
                 "color": "#8c8c8c",
                 "margin": "md",
@@ -219,7 +219,7 @@
               },
               {
                 "type": "text",
-                "text": "45 terjual",
+                "text": "45 ulasan",
                 "size": "sm",
                 "color": "#8c8c8c",
                 "margin": "md",
@@ -259,7 +259,7 @@
       "size": "micro",
       "hero": {
         "type": "image",
-        "url": "https://i.ibb.co/zSSw7vW/003.jpg",
+        "url": "https://i.ibb.co/FsGLqCh/004.jpg",
         "size": "full",
         "aspectMode": "cover",
         "aspectRatio": "320:213"
@@ -270,7 +270,7 @@
         "contents": [
           {
             "type": "text",
-            "text": "Ketimun",
+            "text": "Apel Merah",
             "weight": "bold",
             "size": "sm"
           },
@@ -305,7 +305,7 @@
               },
               {
                 "type": "text",
-                "text": "45 terjual",
+                "text": "45 ulasan",
                 "size": "sm",
                 "color": "#8c8c8c",
                 "margin": "md",
@@ -324,7 +324,7 @@
                 "contents": [
                   {
                     "type": "text",
-                    "text": "Mentimun mengandung 0,65% protein, 0.1% lemak dan karbohidrat sebanyak 2,2%. Juga mengandung kalsium, zat besi, magnesium, fosforus, vitamin A, vitamin B1, vitamin B2 dan vitamin C.",
+                    "text": "Walaupun jenisnya cukup banyak, apel yang ditemukan biasanya berwarna merah dan hijau. kandungan buah apel mulai dari kulit hingga dagingnya ternyata memiliki manfaat yang sangat berguna untuk menunjang kesehatan.",
                     "wrap": true,
                     "color": "#8c8c8c",
                     "size": "xs",
@@ -345,7 +345,7 @@
       "size": "micro",
       "hero": {
         "type": "image",
-        "url": "https://i.ibb.co/zSSw7vW/003.jpg",
+        "url": "https://i.ibb.co/dgf39qR/005.jpg",
         "size": "full",
         "aspectMode": "cover",
         "aspectRatio": "320:213"
@@ -356,7 +356,7 @@
         "contents": [
           {
             "type": "text",
-            "text": "Ketimun",
+            "text": "Kubis Hijau",
             "weight": "bold",
             "size": "sm"
           },
@@ -391,7 +391,7 @@
               },
               {
                 "type": "text",
-                "text": "45 terjual",
+                "text": "22 ulasan",
                 "size": "sm",
                 "color": "#8c8c8c",
                 "margin": "md",
@@ -410,7 +410,7 @@
                 "contents": [
                   {
                     "type": "text",
-                    "text": "Mentimun mengandung 0,65% protein, 0.1% lemak dan karbohidrat sebanyak 2,2%. Juga mengandung kalsium, zat besi, magnesium, fosforus, vitamin A, vitamin B1, vitamin B2 dan vitamin C.",
+                    "text": "Tubuh bisa merasakan manfaat kubis lewat olahan sauerkraut dan kimchi. Sauerkraut atau kol asam merupakan hidangan khas Jerman. Terbuat dari potongan kol yang diiris halus, hidangan ini bisa disimpan agak lama karena difermentasi dengan beragam bakteri asam laktat seperti Leuconostoc, Lactobacillus, dan Pediococcus.",
                     "wrap": true,
                     "color": "#8c8c8c",
                     "size": "xs",
@@ -425,13 +425,13 @@
         "paddingAll": "13px"
       }
     },
-    
+
     {
       "type": "bubble",
       "size": "micro",
       "hero": {
         "type": "image",
-        "url": "https://i.ibb.co/zSSw7vW/003.jpg",
+        "url": "https://i.ibb.co/rxNY32b/006.jpg",
         "size": "full",
         "aspectMode": "cover",
         "aspectRatio": "320:213"
@@ -442,7 +442,7 @@
         "contents": [
           {
             "type": "text",
-            "text": "Ketimun",
+            "text": "Cabai Panjang",
             "weight": "bold",
             "size": "sm"
           },
@@ -477,7 +477,7 @@
               },
               {
                 "type": "text",
-                "text": "45 terjual",
+                "text": "21 ulasan",
                 "size": "sm",
                 "color": "#8c8c8c",
                 "margin": "md",
@@ -496,7 +496,7 @@
                 "contents": [
                   {
                     "type": "text",
-                    "text": "Mentimun mengandung 0,65% protein, 0.1% lemak dan karbohidrat sebanyak 2,2%. Juga mengandung kalsium, zat besi, magnesium, fosforus, vitamin A, vitamin B1, vitamin B2 dan vitamin C.",
+                    "text": "Cabe rawit mengandung capsaicin yang membuatnya berkhasiat untuk kesehatan. Substansi ini pula yang membuatnya terasa pedas. Semakin tinggi kandungan capsaicin, akan semakin pedas rasanya.",
                     "wrap": true,
                     "color": "#8c8c8c",
                     "size": "xs",
