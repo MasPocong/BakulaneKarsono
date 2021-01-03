@@ -1,6 +1,6 @@
 {
-    "name": "dicoding/fiturchatbotphp",
-    "description": "implementasi fitur chatbot di php",
+    "name": "dicoding/tokombahkarsono",
+    "description": "tugas submisi dicoding",
     "type": "project",
     "require": {
         "php": "^7.3",
