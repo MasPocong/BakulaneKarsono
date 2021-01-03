@@ -54,9 +54,19 @@
         "style": "primary",
         "action": {
           "type": "message",
-          "label": "LIHAT BUAH DAN SAYUR",
+          "label": "LIHAT DAFTAR BUAH",
+          "text": "belanjayuk"
+        },
+        
+              {
+        "type": "button",
+        "style": "primary",
+        "action": {
+          "type": "message",
+          "label": "LIHAT DAFTAR SAYUR",
           "text": "belanjayuk"
         }
+        
       }
     ]
   }
