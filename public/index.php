@@ -1,4 +1,5 @@
 <!-- APLIKASI MBAH KARSONO -->
+<!-- Submiiison Dicoding 2021 -->
 
 <?php
 require __DIR__ . '/../vendor/autoload.php';
@@ -97,7 +98,7 @@ $app->post('/webhook', function (Request $request, Response $response) use ($cha
                     }
                 } else {
                     if ($event['message']['type'] == 'text') {
-                        if (strtolower($event['message']['text']) == '/mulai') {
+                        if (strtolower($event['message']['text']) == 'toko') {
 
                             $flexTemplate = file_get_contents("../template_header.json"); // template flex message
                             $result = $httpClient->post(LINEBot::DEFAULT_ENDPOINT_BASE . '/v2/bot/message/reply', [
@@ -110,7 +111,7 @@ $app->post('/webhook', function (Request $request, Response $response) use ($cha
                                     ]
                                 ],
                             ]);
-                        } else if (strtolower($event['message']['text']) == '/cekkalori') {
+                        } else if (strtolower($event['message']['text']) == 'belanjayuk') {
 
                             $flexTemplate = file_get_contents("../flex_message.json"); // template flex message
                             $result = $httpClient->post(LINEBot::DEFAULT_ENDPOINT_BASE . '/v2/bot/message/reply', [
@@ -125,7 +126,7 @@ $app->post('/webhook', function (Request $request, Response $response) use ($cha
                             ]);
                         } else {
                             // send same message as reply to user
-                            $result = $bot->replyText($event['replyToken'], 'Harap Masukkan Keyword yang sesuai seperti : /mulai dan /cekkalori');
+                            $result = $bot->replyText($event['replyToken'], 'Harap Masukkan Keyword yang sesuai seperti : toko dan belanjayuk');
                         }
 
                         $response->getBody()->write($result->getJSONDecodedBody());
