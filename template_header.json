@@ -24,7 +24,7 @@
     "contents": [
       {
         "type": "text",
-        "text": "Tempat Beli Sayur dan Buah! Dijamin Murah dan Berkualitas! ",
+        "text": "Tempatnya Sayur dan Buah! ",
         "size": "sm",
         "color": "#147F36",
         "weight": "bold"
@@ -37,7 +37,7 @@
       },
       {
         "type": "text",
-        "text": "Lihat Barang Apa Saja yang dijual Disini! Tekan Tombol dibawah Bun!",
+        "text": "Lihat Barang Apa Saja yang sayuran dan buah-buahan yang ada Disini! Tekan Tombol dibawah Bun!",
         "size": "sm",
         "wrap": true,
         "margin": "lg"
