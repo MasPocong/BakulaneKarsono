@@ -54,7 +54,7 @@
         "style": "primary",
         "action": {
           "type": "message",
-          "label": "LIHAT DAFTAR BUAH",
+          "label": "LIHAT DAFTAR SAYUR & BUAH",
           "text": "belanjayuk"
         }
       }
